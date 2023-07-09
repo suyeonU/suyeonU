@@ -4,7 +4,8 @@
 
   <p>
 <image src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
-<image src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<image src="https://img.shields.io/badge/Fastapi-4169E1?style=flat-square&logo=fastapi&logoColor=white"/>
+<image src="https://img.shields.io/badge/Postgresql-009688?style=flat-square&logo=postgresql&logoColor=white"/>
   </p>
 
 ### Tools💻
