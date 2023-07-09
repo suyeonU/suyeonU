@@ -1,6 +1,6 @@
 <div align="center">
   
-### Languages💻
+### 💻 Languages 💻
 
   <p>
 <image src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
@@ -8,14 +8,14 @@
 <image src="https://img.shields.io/badge/Postgresql-009688?style=flat-square&logo=postgresql&logoColor=white"/>
   </p>
 
-### Tools💻
+### ⚒️ Tools ⚒️
 <p>
 <image src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <image src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
 <image src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
   
-### Language, Tools I want to learn:
+### Language, Tools I want to learn
   <p>
 <image src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
 <image src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
