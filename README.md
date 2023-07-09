@@ -1,12 +1,13 @@
-
-### Languages:
+<div align="center">
+  
+### Languages💻
 
   <p>
 <image src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
 <image src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   </p>
 
-### Tools:
+### Tools💻
 <p>
 <image src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <image src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
